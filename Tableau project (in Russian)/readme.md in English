@@ -1,0 +1,8 @@
+Telecom Customer Loyalty (NPS) Dashboard
+Tech Stack: Tableau
+
+Business Goal: Visualize Net Promoter Score (NPS) across a national Russian telecom customer base.
+
+What I did: Created an interactive dashboard that breaks down loyalty scores by demographic (age, gender), technical (device type), and geographic segments.
+
+Outcome: Enabled stakeholders to drill down into specific "detractor" segments to identify root causes of low loyalty.
