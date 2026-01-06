@@ -1,0 +1,8 @@
+Customer Segmentation & Behavioral Analysis
+Tech Stack: Python (Pandas, Seaborn, Scipy.stats)
+
+Business Goal: Optimize communication strategies for an e-market home-goods retailer.
+
+What I did: Performed a full-cycle analysis including data cleaning, EDA, and RFM Segmentation. Applied the Kruskal-Wallis test to prove statistical significance between clusters (Loyal, Promising, At-risk).
+
+Outcome: Identified 3 distinct business clusters and developed targeted communication scenarios to increase retention and repeat sales.
