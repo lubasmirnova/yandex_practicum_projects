@@ -1,0 +1,8 @@
+Subscription Service Strategic Database Audit
+Tech Stack: SQL (PostgreSQL)
+
+Business Goal: Formulate a value proposition for a newly acquired book subscription service.
+
+What I did: Queried a complex database (books, authors, publishers, reviews) to identify core assets. Discovered that 80%+ of the library is modern content and identified a "Power User" core (averaging 24 reviews/user).
+
+Outcome: Provided data-backed insights to position the service as a modern, community-driven platform for active readers.
