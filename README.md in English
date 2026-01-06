@@ -1,0 +1,38 @@
+From Data Consumer to Data Creator
+Welcome! I am a Data Analyst with a strong background in Program Management and Customer Success (ex-Google, ex-Wrike). This portfolio showcases my transition from interpreting data to building the analytical frameworks behind it.
+Goal: Currently seeking Junior Data Analyst or Business Analyst roles with a focus on Operations and BI.
+
+🛠 Technical Stack
+Languages: Python (Pandas, NumPy, Scipy, Matplotlib, Seaborn), SQL (PostgreSQL, BigQuery).
+
+Tools: Tableau, Excel (Advanced), Wrike, Google Analytics.
+
+Methods: RFM Segmentation, Statistical Hypothesis Testing, Exploratory Data Analysis (EDA), Data Visualization, Business Process Mapping.
+
+📂 Key Projects
+1. Customer Segmentation & Behavioral Analysis (Python)
+Objective: Optimize communication for an e-commerce retailer.
+
+Solution: Performed RFM segmentation and used the Kruskal-Wallis test to validate differences in purchasing power across segments.
+
+Business Impact: Identified 3 key clusters ("Loyal", "Promising", "At-risk") and designed tailored communication strategies to improve retention.
+
+https://github.com/lubasmirnova/yandex_practicum_projects/tree/main/Python.%20E-commerce.%20Final%20project
+
+2. Strategic Database Audit & Value Prop Development (SQL)
+Objective: Define the competitive edge for a newly acquired book subscription service.
+
+Solution: Executed complex SQL queries to analyze library content, author popularity, and user engagement levels.
+
+Business Impact: Mapped out a value proposition based on modern content (80%+ post-2000) and high community engagement (active "Power Users").
+
+https://github.com/lubasmirnova/yandex_practicum_projects/tree/main/SQL.%20Final%20project
+
+3. Telecom Customer Loyalty (NPS) Dashboard (Tableau)
+Objective: Visualize and analyze Net Promoter Score (NPS) across various demographics.
+
+Solution: Developed an interactive dashboard allowing for deep-dive segmentation by age, gender, geography, and device type.
+
+Business Impact: Enabled operational teams to pinpoint specific "detractor" groups for targeted service improvements.
+
+https://github.com/lubasmirnova/yandex_practicum_projects/tree/main/Tableau%20project%20(in%20Russian)
